@@ -10,7 +10,7 @@
 
 <ul>
   <li> currently studying about Back End web development.</li>
-  <li> From ES, Brazil.</li>
+  <li> From Cariacica-ES, Brazil.</li>
 </ul>
 
 ### My skills
